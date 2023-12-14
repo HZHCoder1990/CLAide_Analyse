@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    CLAide_Analyse (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    claide (1.1.0)
+    rake (13.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  CLAide_Analyse!
+  claide
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.1.4
